@@ -1,3 +1,3 @@
-#### jdgdigb
+## Actividad 01
 
-- nfsdjifbusdbsd
+#### Definición y diferenciación
