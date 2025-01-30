@@ -6,7 +6,7 @@
 - ***Descripción Breve***: Un proyecto que simula una flor generada por ocho "árboles" que se transforman en pétalos a través de la interacción visual.
 - ***Imagen***:
 
- ![Captura de pantalla 2025-01-30 103849](https://github.com/user-attachments/assets/457d575f-9acf-480f-9e17-8184ffa61cfa)
+ ![Captura de una obra generativa](../../../../assets/un1-ac2-im1.png)
 
 - Lo que me llama la atención en "Petals" es cómo logra una flor en movimiento, siempre cambiando. La combinación de reglas matemáticas que definen su crecimiento y transformación, junto con la interacción del usuario, genera una experiencia visual impresionante. Las formas geométricas se repiten y se modifican según varios parámetros, lo que da lugar a una obra única cada vez que la ves. Este tipo de arte generativo responde a factores dinámicos y crea algo tan orgánico como fascinante.
 
