@@ -9,6 +9,12 @@
 - ***Variaciones***: Se realizaron una variación simple se aumento la cantidad de mosaicos para que se viera mucho mas vistoso el arte generativo.
 
 - ***Modificación***
+```js
+var tileCount = 20;
+```
+
+- ***Link***: https://x.com/ArmandoRua999/status/1886844493183254712
+
 
 
 
