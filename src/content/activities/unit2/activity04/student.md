@@ -11,7 +11,7 @@ desde la paleta de colores hasta el comportamiento de las partículas, se alinea
 - ***Outputs***: Es el resultado que nos deja el arte de datos analizando los movimientos de el jugador o jugadora, dando asi una arte generativo unico con particulas que se
 visualizó en tiempo real y se ofreció como un coleccionable digital personalizado.
 
-- ***Storytelling***: 
+- ***Storytelling***: Este enfoque innovador permitió a los participantes experimentar y apreciar el arte generado por sus propias habilidades futbolísticas, ofreciendo una perspectiva única sobre la intersección entre deporte y tecnología.
 
 
 
