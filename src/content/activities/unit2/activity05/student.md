@@ -20,6 +20,17 @@ visual en constante cambio, siempre reflejando la creatividad y diversidad de la
 flexible y en evolución, al igual que la tecnología blockchain que representa.
 
 
+___________________________________________________________________________________________________________________________________________________________________________
+
+- ***Proyecto***: Philharmonie Luxembourg
+
+- ***Análisis***: En este caso, el input consiste en la música y la melodía que se reproduce, mientras que el output es la animación generada en el logo. El procesamiento se realiza mediante un algoritmo que transforma la melodía en una representación visual. La narrativa detrás de esto es que la animación no es simplemente aleatoria, sino que tiene un significado específico, y representa de forma visual algo que, de otro modo, sería invisible.
+
+
+
+
+
+
 
 
 
