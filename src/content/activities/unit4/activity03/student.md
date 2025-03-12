@@ -1,6 +1,6 @@
-### Actividad 3
+## Actividad 3
 
-## Tu propuesta con la biblioteca p5LiveMedia
+### Tu propuesta con la biblioteca p5LiveMedia
 
 ***Describe la aplicación que propones.***
 - Imagínate esto: eres un comediante, pero en lugar de estar en un bar con luces tenues y un micrófono en la mano, estás en una sala virtual donde la gente te ve y te responde en tiempo real. "Stand-Up en Red" es justo eso, una plataforma donde cualquiera puede hacer su show de comedia en vivo, recibir feedback inmediato del público y, lo mejor, interactuar con la audiencia como si estuvieran todos en la misma habitación.
