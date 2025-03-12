@@ -1,6 +1,6 @@
-## Actividad 4
+### Actividad 4
 
-### ¿Cómo funciona webRTC?
+## ¿Cómo funciona webRTC?
 
 
 ***¿Qué es webRTC?***
