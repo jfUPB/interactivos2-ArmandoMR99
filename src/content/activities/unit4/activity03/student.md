@@ -3,22 +3,24 @@
 ## Tu propuesta con la biblioteca p5LiveMedia
 
 ***Describe la aplicación que propones.***
-- Imagínate esto: eres un comediante, pero en lugar de estar en un bar con luces tenues y un micrófono en la mano, estás en una sala virtual donde la gente te ve y te responde en tiempo real. "Stand-Up en Red" es justo eso, una plataforma donde cualquiera puede hacer su show de comedia en vivo, recibir feedback inmediato del público y, lo mejor, interactuar con la audiencia como si estuvieran todos en la misma habitación.
+- Esta propuesta consiste en un juego de carreras de bolitas entre jugadores, donde todas comienzan en la parte inferior de la pantalla y deben avanzar hasta la meta, representada por una franja negra en la parte superior. Los jugadores controlan sus bolitas con las flechas del teclado, y la posición de los demás competidores se actualiza en vivo, permitiendo que todos vean el progreso en tiempo real.
 
 ***Describe cómo la aplicación propuesta hace uso de la biblioteca p5LiveMedia.***
-- Básicamente, la magia de esto es que p5LiveMedia nos ayuda a conectar a todos en la sala virtual en tiempo real. ¿Quieres que el público vote por el próximo tema del chiste? ¡Hecho! ¿Quieres que reaccionen con emojis o con sonidos pregrabados (como risas o grillos incómodos cuando el chiste no pega)? ¡También se puede! Todo ocurre en el momento, sin retrasos raros, para que la experiencia sea lo más fluida y divertida posible.
+- Para esta propuesta, decidí utilizar uno de los ejemplos que propone Vanevery sobre el compartir datos en tiempo real y lo combiné con una mecánica de carrera, permitiendo que los jugadores vean su avance en vivo. Las posiciones de las bolitas se actualizan constantemente, de modo que cuando un jugador se mueve en su pantalla, su posición también cambia para los demás, y viceversa.
 
 ***Describe cómo la aplicación propuesta se relaciona con el proyecto de curso.***
-- Porque el stand-up no es solo contar chistes, es sentir la vibra del público. Con esta app, el comediante no está solo hablando a una pantalla, sino que recibe respuestas en vivo, lo que hace que el show sea más dinámico y real. Además, cualquiera puede probar su material sin necesidad de ir a un bar y pasar la vergüenza de que nadie se ría 
+- La aplicación propuesta está relacionada con los eventos en vivo, que es el enfoque principal del proyecto del curso. De esta manera, sirve como una guía para nuestra bitácora, permitiéndonos mejorar nuestros conocimientos sobre eventos en tiempo real y desarrollar la mejor aplicación posible para la parte final del curso.
 
 ***Escribe un tutorial que permita replicar la aplicación propuesta.***
-- Para replicar "Stand-Up en Red", solo necesitas configurar p5.js y p5LiveMedia en un entorno como Glitch, un servidor local o GitHub Pages. Crea una sala virtual para que los comediantes y el público se conecten, y diseña una interfaz donde se muestren reacciones y votos en tiempo real. Luego, prueba la aplicación con algunos amigos para asegurarte de que la interacción sea fluida. Una vez optimizada, publícala en línea para que cualquiera pueda participar en un show de stand-up digital.
+- Paso 1: Abrir el repositorio de Vanevery y luego abrir p5.js
+- Paso 2: En el repositorio de Vanevery leer con atención y si es posible ver el video que esta en su cuenta, todo esto es para poder agregar simplepeer y socket.io en el HTML de p5.js
+- Paso 3: Cuando ya los allas agregado mas abajo te dejare el codigo de la propuesta y se implementa dicho codigo en el sketch,js
+- Paso 4: Antes de eso te registras en p5.js, Luego te vas a "File" como ya te registraste te aparecera una opción que se llama "Share" con la cual puedes copiar el segundo link y abrirlo en una nueva pestaña
+- Paso 5: Ya luego de que tengas todo abierto corre la aplicación y veras que cuando vayas cambiando de pestaña se actualizara la posición de cada bolita.
+- Paso 6: (Esta en testeo) se comparte el link con un compañero y se realiza la carrera.
 
 ***Adiciona el código y enlaces necesarios para replicar la aplicación propuesta.***
-- Para realizar esta propuesta se deben utilizar los siguientes elementos
-- https://github.com/vanevery/p5LiveMedia - Este link lleva a la biblioteca de p5LiveMedia
-- https://p5js.org - Este link es de p5 en la cual podemos realizar el trabajo
-
+- 
 
 
 
