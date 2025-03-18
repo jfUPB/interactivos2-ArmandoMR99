@@ -96,7 +96,7 @@ class Bot {
 ```
 - Aqui mostrare como se ve la aplicación planteada
 
-https://github.com/user-attachments/assets/ed89ec38-9261-47c3-9db6-2ff1a365e48a
+https://x.com/ArmandoRua999/status/1902082637159919822
 
 - https://github.com/vanevery/p5LiveMedia?tab=readme-ov-file  - Esta es la pagina de Vanevery donde si sigue paso a paso mi tutorial se puede replicar la aplicación
 
