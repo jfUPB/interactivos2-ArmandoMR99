@@ -20,8 +20,85 @@
 - Paso 6: (Esta en testeo) se comparte el link con un compañero y se realiza la carrera.
 
 ***Adiciona el código y enlaces necesarios para replicar la aplicación propuesta.***
-- 
+- Este es el codigo de mi aplicación propuesta
+```js
+let myBot;
+let otherBots = {};
+let p5lm;
 
+function setup() {
+  createCanvas(600, 400);
+  
+ 
+  myBot = new Bot(random(width), height - 20, color(random(255), random(255), random(255)));
+
+ 
+  p5lm = new p5LiveMedia(this, "DATA", null, "race-room");
+  p5lm.on("data", gotData);
+}
+
+function draw() {
+  background(220);
+
+ 
+  fill(0);
+  rect(0, 0, width, 20);
+
+  // Dibujar mi bot
+  myBot.show();
+
+ 
+  for (let id in otherBots) {
+    otherBots[id].show();
+  }
+}
+
+function keyPressed() {
+  if (keyCode === LEFT_ARROW) myBot.move(-5, 0);
+  if (keyCode === RIGHT_ARROW) myBot.move(5, 0);
+  if (keyCode === UP_ARROW) myBot.move(0, -5);
+  if (keyCode === DOWN_ARROW) myBot.move(0, 5);
+
+  // Enviar la posición actualizada
+  let dataToSend = { x: myBot.x, y: myBot.y };
+  p5lm.send(JSON.stringify(dataToSend));
+}
+
+function gotData(data, id) {
+  let d = JSON.parse(data);
+  
+  if (!otherBots[id]) {
+    otherBots[id] = new Bot(d.x, d.y, color(0, 0, 255)); // Color azul para otros jugadores
+  } else {
+    otherBots[id].x = d.x;
+    otherBots[id].y = d.y;
+  }
+}
+
+// Clase Bot
+class Bot {
+  constructor(x, y, c) {
+    this.x = x;
+    this.y = y;
+    this.color = c;
+  }
+  
+  move(dx, dy) {
+    this.x += dx;
+    this.y += dy;
+  }
+  
+  show() {
+    fill(this.color);
+    ellipse(this.x, this.y, 20, 20);
+  }
+}
+```
+- Aqui mostrare como se ve la aplicación planteada
+
+https://github.com/user-attachments/assets/ed89ec38-9261-47c3-9db6-2ff1a365e48a
+
+- https://github.com/vanevery/p5LiveMedia?tab=readme-ov-file  - Esta es la pagina de Vanevery donde si sigue paso a paso mi tutorial se puede replicar la aplicación
 
 
 
