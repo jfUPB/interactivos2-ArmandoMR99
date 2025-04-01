@@ -11,7 +11,7 @@ historia y luego de la lectura les saldra una pestaña donde pide una pequeña r
 
 ***¿Cuál es la narrativa que conecta a los usuarios con el evento, con el contenido y con la interacción?***
 - El evento en vivo que pense, se va a basar en la aplicación que estamos realizando en UX, al momento de lanzar la aplicación, para el contexto de este evento en vivo, se imaginara
-que se va a realizar cuando se este lanzando la aplicación al publico, 
+que se va a realizar cuando se este lanzando la aplicación al publico, basandonos en la aplicación de jorge drexler, 
 
 
 
