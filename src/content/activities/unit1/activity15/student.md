@@ -1,0 +1,5 @@
+## Actividad 15
+
+### Conexión con el problema del curso
+
+- En este curso, los conceptos aprendidos me han permitido comprender cómo crear sistemas interactivos que responden en tiempo real a diversas entradas como sonido, movimiento o datos externos. Gracias a técnicas como los sistemas de partículas y la visualización generativa, ahora sé cómo desarrollar entornos inmersivos y reactivos. Entre las posibles aplicaciones que puedo explorar están las visuales interactivas, donde los patrones gráficos cambian según la interacción del usuario, simulaciones de comportamientos que modelan fenómenos naturales o inteligencia artificial emergente, y experiencias musicales generativas que se ajustan dinámicamente a las acciones del usuario. Para llevar a cabo estos proyectos, p5.js es la herramienta ideal para mí, ya que la conozco bien y es fácil de usar, pero también muy poderosa. Aunque no veo muchas limitaciones con esta herramienta, reconozco que puede no ser suficiente para crear experiencias de mayor escala o más complejas.
