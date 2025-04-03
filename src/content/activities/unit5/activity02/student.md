@@ -2,16 +2,21 @@
 
 ### Concepto del proyecto de curso
 
-***¿Cuál será el evento en vivo que vas a diseñar?***
-- El evento en vivo se tratara sobre una aplicación de lectura para jovenes, y que experiencia vamos a realizar, tomando de refernte los videos vistos en la Unidad 2, Los cuales son
-los videos de jorge drexler donde presenta n3, en este evento en vivo, los jovenes al empezar la actividad crearan una pequeña historia de maximo 6 renglones, como un abre bocas, luego
-la enviaran y todos los abre bocas se juntaran y se separaran en grupos, cuando la pagina detecte que todos los abre bocas se separaron en diferentes grupos en la web les aparecera una
-opción donde podran agarrar las palabras clave que mas les interesen sin ver de cual historia estan seleccionando estas palabras, al final la aplicación les mostrara como quedo la
-historia y luego de la lectura les saldra una pestaña donde pide una pequeña reseña de lo leido.
+- El evento en vivo es un concierto innovador en el que la música se genera a partir de las pulsaciones de los artistas en el escenario. Sus latidos crearán la base melódica en tiempo real, y ellos improvisarán sobre esta, adaptándose a los ritmos que su propio cuerpo produce. Cada presentación será única, moldeada por la energía y las emociones de los músicos en ese momento.
 
-***¿Cuál es la narrativa que conecta a los usuarios con el evento, con el contenido y con la interacción?***
-- El evento en vivo que pense, se va a basar en la aplicación que estamos realizando en UX, al momento de lanzar la aplicación, para el contexto de este evento en vivo, se imaginara
-que se va a realizar cuando se este lanzando la aplicación al publico, basandonos en la aplicación de jorge drexler, 
+- Pero el público no será solo un espectador, sino un participante activo en la creación del arte visual del concierto. A través del movimiento de sus celulares, influirán en una obra digital que se generará en tiempo real mientras el espectáculo avanza. La intensidad de su emoción y movimiento dará forma a los patrones y colores proyectados en el escenario y las pantallas envolventes:
+
+- Si los celulares registran poco movimiento, se transmitirán colores fríos y trazos lineales, reflejando una atmósfera más serena y controlada.
+
+- Por el contrario, si hay un gran nivel de movimiento, los visuales se transformarán en una explosión de colores vibrantes y patrones dinámicos, capturando la efervescencia y la emoción colectiva del público.
+
+- Al final del concierto, la obra visual resultante será una representación única de la energía compartida entre los artistas y los asistentes, un testimonio digital del momento vivido. Este espectáculo fusiona música, tecnología y emoción, convirtiendo cada presentación en una experiencia irrepetible donde el sonido y la imagen laten al mismo ritmo del corazón.
+
+- ![image](https://github.com/user-attachments/assets/2b7b6097-d882-4014-8cad-6f050b52378e)
+
+- https://www.youtube.com/watch?v=ji-XbGcT4bg
+
+
 
 
 
