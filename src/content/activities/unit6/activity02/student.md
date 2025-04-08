@@ -65,11 +65,38 @@ Buscando encontre los BPM aproximados por temas musicales
 - Hip-hop: 60-100 lpm
 - House: 115-130 lpm
 
+***Pseudocodigo***
+```
+si bpm_artista > 120:
+    base_musical.tempo = "rápido"
+  
+si promedio_movimiento_publico < 5.0:
+    visual.color = "azul"
+    visual.forma = "líneas suaves"
+else:
+    visual.color = "rojo"
+    visual.forma = "explosiones"
+```
 
+______________________________________________________________________________________________________
 
+## Outputs
 
+***1. Sonidos (Musica)***
+- Cambio de velocidades de la musica
+- Tono de la melodia (Grave/Aguda)
 
+***2. Visual***
+- Colores (Azul, Morado, Verde - Frio / Naranja, Rojo, Amarillo - Calidos)
+- Formas (Lineas suaves / Explosión)
 
+____________________________________________________________________________
+
+***Conexión  Input -> Process -> Output***
+- Los latidos del artista marcan el ritmo y el tono de la música en tiempo real, como si su corazón fuera el metrónomo del show. Mientras tanto, el movimiento de los celulares del público revela cuánta energía hay en el ambiente. Con esa info, los visuales se transforman: cambian los colores, las formas y cómo se mueven, todo al ritmo de la emoción colectiva. Es una conexión viva entre cuerpo y emoción, donde artista y público crean juntos una experiencia única que no se puede repetir.
+
+***Outputs manifiestan el Storytelling.***
+- La música nace del cuerpo, la imagen nace de la emoción colectiva. Todo converge en una obra efímera y emocional, donde artista y audiencia laten en sincronía.
 
 
 
