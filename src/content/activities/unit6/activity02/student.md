@@ -27,7 +27,7 @@ _______________________________________________________________________________
 
 ***3. Intensidad emocional del público***
 
-- **Fuente:** Resultados del Input anterior
+- **Fuente:** Tablet o PC
 - **Tipo de Dato:*** Numerico (Posición y aceleración que detecta el celular)
 - **Rango:** Rango de 1 - 10, para determinar que tanto se estan moviendo
 - **Simulable:** Si, muestra los colores y las lineas dependiendo los valores de la posición y aceleración
@@ -44,7 +44,26 @@ ________________________________________________________________________________
 - - 120 - 180 BPM, Velocidad rapida y musica aguda
 
 ***2. Artista Improvisa***
-- Los artistas se tienen que ir acomodando al ritmo de la musica y su velocidad, haciendo que esta experiencia sea unica para 
+- Los artistas se tienen que ir acomodando al ritmo de la musica y su velocidad, sin embargo la musica se puede pausar para que los artistas no se pongan nerviosos y aumente su BPM.
+
+***3. Movimiento del Publico***
+- Con lo que comente en el input se calcula la aceleración y posición del celular para poder saber si el celular si se esta desplazando con intensidad o si casi no esta en movimiento.
+
+***4. Visual Generativo***
+- Estos visuales tambien se encargan de recibir rangos los cuales dependiendo de estos rangos se comvierten en el arte generativo
+- - 1 - 5, Se transmiten colores mas frios y lineas mas suaves y rectas sin tanto movimiento.
+- - 6 - 10, Son colores mas calidos y se pueden observar explosiones por diferentes partes de la pantalla.
+  
+***Datos Importantes***
+
+Buscando encontre los BPM aproximados por temas musicales
+- Cumbia: 90-110 lpm
+- Reggaetón: 100-120 lpm
+- Pop/rock/dance: 120-140 lpm
+- Rock metálico/punk: 140-190 lpm
+- Dub: 60-90 lpm
+- Hip-hop: 60-100 lpm
+- House: 115-130 lpm
 
 
 
