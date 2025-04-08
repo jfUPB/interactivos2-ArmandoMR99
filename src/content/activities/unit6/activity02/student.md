@@ -8,7 +8,7 @@
 
 - **Fuente:** Sensor biométrico (Smartwatch).
 - **Tipo de Dato:** Numérico (frecuencia cardíaca).
-- **Rango:** 60 – 180 BPM.
+- **Rango:** 60 – 180 LPM.
 - **Simulable:** Si, se puede simular con p5.js, conectando el relog por bluetooth a p5.js
 - **Storytelling:** Si está más calmado (la música es más lenta y grave). Si está más acelerado - (la música se vuelve más rápida y aguda).
 Esto vuelve la experiencia más íntima, la audiencia escucha el cuerpo del artista.
@@ -39,9 +39,9 @@ ________________________________________________________________________________
 
 ***1. Input Latido Artista***
 - Los BPM van por rangos, donde la musica cambia dependiendo estos rangos:
-- - 60 - 80 BPM, Velocidad lenta y musica grave
-- - 100 - 120 BPM, Musica normal
-- - 120 - 180 BPM, Velocidad rapida y musica aguda
+- - 60 - 80 LPM, Velocidad lenta y musica grave
+- - 100 - 120 LPM, Musica normal
+- - 120 - 180 LPM, Velocidad rapida y musica aguda
 
 ***2. Artista Improvisa***
 - Los artistas se tienen que ir acomodando al ritmo de la musica y su velocidad, sin embargo la musica se puede pausar para que los artistas no se pongan nerviosos y aumente su BPM.
