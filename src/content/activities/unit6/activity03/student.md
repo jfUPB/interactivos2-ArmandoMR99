@@ -21,7 +21,7 @@ _______________________________________________________
 _________________________________________________________
 
 **3. Combinación de Inputs***
-
+- ***BPM Alto + Público en Calma:*** Si el LPM de los artistas es alto esto significa que tienen mucho sentimiento en la canción o es una canción que es muy animada, pero si los artistas ven que el publico esta muy calmado o que casi no hay movimiento, esto les puede bajar mucho la moral, por otro lado si el publico tiene un movimiento
 
 
 
