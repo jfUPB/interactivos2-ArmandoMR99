@@ -12,6 +12,13 @@
 - ***Visuales Movimientos bajos:*** Serian lineas suaves y colores frios, dependiendo la melodia es bueno o malo.
 - ***Control Remoto parametros bajos:*** No tiene ningun inconveniente los parametros bajos ya que son controlables.
 
+_______________________________________________________
+
+**2. Cambio de parámetro interno:**
+- ***Movimientos Lentos = Explosiones y Colores Calidos:*** Si se realiza este cambio la experiencia seria muy diferente ya que no coincidiria con las emociones del publico, mostrando explosiones cuando ellos estan tranquilos.
+- ***
+
+
 
 
 
