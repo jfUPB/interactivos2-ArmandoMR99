@@ -25,13 +25,13 @@ ______________________________________________________
 
 _______________________________________________________________________________
 
-***3. Intensidad emocional del público***
+***3. Intensidad emocional del público y Ritmo Artistas***
 
 - **Fuente:** Tablet o PC
 - **Tipo de Dato:*** Numerico (Posición y aceleración que detecta el celular)
 - **Rango:** Rango de 1 - 10, para determinar que tanto se estan moviendo
-- **Simulable:** Si, muestra los colores y las lineas dependiendo los valores de la posición y aceleración
-- **Storytelling:** Esta intensidad se traduce en el “estado de ánimo” visual de la obra. Es una representación simbólica de la emoción colectiva.
+- **Simulable:** Si, muestra los colores y las lineas dependiendo los valores de la posición y aceleración, ayuda a los artistas con la melodia y poniendo el ritmo (Cumbia, Regueton, Etc..)
+- **Storytelling:** Esta intensidad se traduce en el “estado de ánimo” visual de la obra, y ayuda a los artistas a controlar sus pulsaciones. Es una representación simbólica de la emoción colectiva.
 
 ____________________________________________________________________________________________________________________
 
