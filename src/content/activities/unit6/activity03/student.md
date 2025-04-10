@@ -10,7 +10,7 @@
 **1.2 Inputs extremos (Minimos)**
 - ***Frecuencia Cardiaca baja:*** La musica seria muy lenta y muy grave, es bueno dependiendo de que se vaya a tocas.
 - ***Visuales Movimientos bajos:*** Serian lineas suaves y colores frios, dependiendo la melodia es bueno o malo.
-- ***Control Remoto parametros bajos:*** 
+- ***Control Remoto parametros bajos:*** No tiene ningun inconveniente los parametros bajos ya que son controlables.
 
 
 
