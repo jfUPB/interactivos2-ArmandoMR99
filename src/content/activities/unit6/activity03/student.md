@@ -16,7 +16,11 @@ _______________________________________________________
 
 **2. Cambio de parámetro interno:**
 - ***Movimientos Lentos = Explosiones y Colores Calidos:*** Si se realiza este cambio la experiencia seria muy diferente ya que no coincidiria con las emociones del publico, mostrando explosiones cuando ellos estan tranquilos.
-- ***
+- ***LPM Rapidos - Musica lenta y Grave:*** Esto no estaria sincronizado con la emoción de los artistas, puesto que si tienen los LPM muy altos es porque estan cantando algo muy emocionante o estan expresando mucho sentimiento, por lo mismo no cuadraria con lo planteado.
+
+_________________________________________________________
+
+**3. Combinación de Inputs***
 
 
 
