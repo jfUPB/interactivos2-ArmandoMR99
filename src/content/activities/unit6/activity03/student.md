@@ -23,6 +23,13 @@ _________________________________________________________
 **3. Combinación de Inputs***
 - ***BPM Alto + Público en Calma:*** Si el LPM de los artistas es alto esto significa que tienen mucho sentimiento en la canción o es una canción que es muy animada, pero si los artistas ven que el publico esta muy calmado o que casi no hay movimiento, esto les puede bajar mucho la moral, por otro lado si el publico tiene un movimiento
 
+- ***BPM Bajo + Publico Emocionado:*** Cuando el publico esta muy emocionado, significa que la musica de los artistas les esta llegando al alma, si los artistas estan cantando una canción lenta y triste o de sentimiento y el publico esta emocionado significa que la canción es una canción que emociona mucho a la audiencia.
+
+__________________________________________________________
+
+**4. Falla de Input:**
+- Si por alguna razón alguno de los inputs llegara a fallar como por ejemplo (Detector de movimiento, Detector de pulso) El modo seguro es que todos los intervalos que cambian con los inputs, quedan en su estado neutral osea en la mitad de los parametros para que no se dañe la experiencia que se esta realizando.
+
 
 
 
