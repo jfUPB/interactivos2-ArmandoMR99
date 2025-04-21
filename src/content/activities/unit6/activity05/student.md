@@ -32,11 +32,48 @@ ________________________________________________________
 
 ***Pseudocodigo***
 
+```
+if (bpm > 120) {
+  musica.tempo = "rápido";
+  musica.tono = "agudo";
+} else if (bpm < 80) {
+  musica.tempo = "lento";
+  musica.tono = "grave";
+}
 
+if (movimientoProm < 5) {
+  visual.color = "frío";
+  visual.forma = "líneas suaves";
+} else {
+  visual.color = "cálido";
+  visual.forma = "explosiones";
+}
+```
 
+________________________________________________________________________________
 
+### 4. Outputs Detallados
 
+**Música (output sonoro)**
+- Tempo variable según BPM del artista
+- Tono melódico (grave/agudo)
+- Cambios en tiempo real
 
+**Visuales (output visual)**
+- Colores dinámicos (fríos ↔ cálidos)
+- Formas: líneas suaves o explosiones
+- Movimiento visual en pantalla basado en aceleración colectiva
+
+**Conexión IPO y storytelling:**
+- El artista guía con su ritmo cardíaco, la audiencia responde con energía física. Juntos moldean una obra visual-sonora en vivo. El cuerpo crea la música; la emoción del público pinta la imagen. Todo responde en tiempo real, generando una narrativa sensorial compartida.
+
+_________________________________________________________________________________________________
+
+### Notas Clave
+
+- Si un input falla (por ejemplo, no hay señal del reloj), se activa un estado por defecto con valores promedio.
+- La simulación es activable con usarSimulacion = true, útil para pruebas sin hardware.
+- Las fluctuaciones suaves son clave para evitar resultados visuales o sonoros bruscos o incoherentes.
 
 
 
